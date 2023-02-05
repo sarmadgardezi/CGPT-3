@@ -9,7 +9,7 @@
 5. In `pages/index.js` you tweak your UI/UX
 6. start the dev server with `yarn dev` or `npm run dev` command
 
-## For more stuff like this checkout [lablab.ai](https://lablab.ai/)
+## For more stuff like this checkout [sarmadgardezi.com](https://sarmadgardezi.com)
 
 ## Tips
 
@@ -21,6 +21,5 @@ If you don't have a setup on your computer that allow to run code locally, then 
 
 For more on Artificial Intelligence, checkout this links
 
-- [My Twitter](https://twitter.com/mathiiias123).
-- [New Native](https://newnative.ai)
-- [Nextgrid](https://nextgrid.ai)
+- [My Twitter](https://twitter.com/sarmadgardezi).
+- [Website](https://sarmadgardezi.com)
